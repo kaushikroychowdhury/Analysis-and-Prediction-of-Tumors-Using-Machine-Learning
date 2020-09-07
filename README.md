@@ -46,3 +46,44 @@ Class distribution: 357 benign, 212 malignant
 #### In this note book i have tried to compare the 2 tumors- benign and malignant i have added visualisatiion to show that how are these two tumors different then i have applied various classification models for predictions for given features that whether the tumour is B or M. i have also illustrated the importance of feature scaling.
 
 ## VISUALIZATION ...
+
+### Bar Garph
+![](/Visualzation/barGraph.png)
+
+### Pie Chart
+![](/Visualzation/pieChart.png)
+
+### Pair Plot (Radius, Texture, Perimeter, Area)
+![](/Visualzation/PairPlot.png)
+
+# FOLLOWNG GRAPHS SHOW THE DIFFERENCE BETWEEN VARIOUS PARAMTERS OF BENIGN AND MALIGNANT TUMORS
+
+
+
+### Radius Mean vs Concavity Mean (Benign)
+![](/Visualzation/RvC_B.png)
+
+### Radius Mean vs Concavity Mean (Malignant)
+![](/Visualzation/RvC_M.png)
+
+# ABOVE TWO GRAPHS PROVE THE DIFFERENCE BETWEEN 2 TUMORS
+
+
+
+### Radius Mean vs Texture Mean (Benign)
+![](/Visualzation/RvT_B.png)
+
+### Radius Mean vs Texture Mean (Malignant)
+![](/Visualzation/RvT_M.png)
+
+### Pair Grid (Radius, Texture, Perimeter, Area, Smoothness) _ Benign 
+![](/Visualzation/PairGrid_B.png)
+
+### Pair Grid (Radius, Texture, Perimeter, Area, Smoothness) _ Malignant 
+![](/Visualzation/PairGrid_M.png)
+
+### Correlation Map
+![](/Visualzation/corr_map.png)
+
+
+
