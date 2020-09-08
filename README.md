@@ -60,6 +60,8 @@ For example, breast cancer begins in the breast tissue and may spread to lymph n
 
 The breast cancer cells can then form tumors in those locations. A biopsy of these tumors might show characteristics of the original breast cancer tumor.
 
+![Tumour](514240-article-img-malignant-vs-benign-tumor2111891f-54cc-47aa-8967-4cd5411fdb2f-5a2848f122fa3a0037c544be.webp)
+
 ## VISUALIZATION ...
 
 ### Bar Garph
