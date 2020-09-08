@@ -45,6 +45,21 @@ Class distribution: 357 benign, 212 malignant
 
 #### I have tried to compare the 2 tumors- benign and malignant & I have added visualisatiion to show that how are these two tumors different then I have applied various classification models for predictions for given features that whether the tumour is B or M. I have also illustrated the importance of feature scaling.
 
+
+# Benign Tumors: Noncancerous
+If the cells are not cancerous, the tumor is benign. It won't invade nearby tissues or spread to other areas of the body (metastasize). A benign tumor is less worrisome unless it is pressing on nearby tissues, nerves, or blood vessels and causing damage.1﻿ Fibroids in the uterus or lipomas are examples of benign tumors.
+
+Benign tumors may need to be removed by surgery.1﻿ They can grow very large, sometimes weighing pounds. They can be dangerous, such as when they occur in the brain and crowd the normal structures in the enclosed space of the skull. They can press on vital organs or block channels.
+
+Some types of benign tumors such as intestinal polyps are considered precancerous and are removed to prevent them becoming malignant. Benign tumors usually don't recur once removed, but if they do it is usually in the same place.
+
+# Malignant Tumors: Cancerous
+Malignant means that the tumor is made of cancer cells, and it can invade nearby tissues. Some cancer cells can move into the bloodstream or lymph nodes, where they can spread to other tissues within the body—this is called metastasis.2﻿﻿ Cancer can occur anywhere in the body including the breast, intestines, lungs, reproductive organs, blood, and skin.
+
+For example, breast cancer begins in the breast tissue and may spread to lymph nodes in the armpit if it's not caught early enough and treated. Once breast cancer has spread to the lymph nodes, the cancer cells can travel to other areas of the body, like the liver or bones.
+
+The breast cancer cells can then form tumors in those locations. A biopsy of these tumors might show characteristics of the original breast cancer tumor.
+
 ## VISUALIZATION ...
 
 ### Bar Garph
