@@ -103,4 +103,24 @@ The breast cancer cells can then form tumors in those locations. A biopsy of the
 ![](/Visualzation/corr_map.png)
 
 
+# RESULTS :
 
+## FITTING & TESTING DIFFERENT CLASSIFICATION MODELS ( without scaling the data )
+Random Forest :  95.6140350877193
+Decision Tree :  94.73684210526315
+Support Vector Machine :  90.35087719298247
+K Nearest Neighbours :  93.85964912280701
+Naive Bayes Algorithm :  94.73684210526315
+
+### Random Forest and Naive Bayes Algorithm performs best ..
+### SVM performs worst ..
+ 
+ 
+## FITTING & TESTING DIFFERENT CLASSIFICATION MODELS ( with scaled data )
+Random Forest :  95.6140350877193
+Decision Tree :  94.73684210526315
+Support Vector Machine :  97.36842105263158
+K Nearest Neighbours :  95.6140350877193
+Naive Bayes Algorithm :  94.73684210526315
+
+### After Scaling the Data .. SVM performs best of all ..
