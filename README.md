@@ -1,4 +1,4 @@
-# Analysis-and-Prediction-of-Tumours-Using-Machine-Learning-
+# Analysis-and-Prediction-of-Tumors-Using-Machine-Learning-
 
 ## About the DATASET ...
 
